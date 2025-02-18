@@ -10,6 +10,11 @@ import { auth } from "../utils/firebase";
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
 import { BG_URL, USER_AVATAR } from "../utils/constants";
+import { setUser, logoutUser } from "../utils/userSlice";
+import { API_KEY } from "../utils/constants";
+import { auth } from "../utils/firebase";
+
+
 
 const Login = () => {
   const [isSignInForm, setIsSignInForm] = useState(true);

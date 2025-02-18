@@ -2,7 +2,15 @@
 
 - Crate React App
 - Configured TailwindCSS into our app
-- 
+- Header 
+- Routing of App
+- Login Force 
+- Sign up Form 
+- Form Validation 
+- useRef Hook 
+- Firebase Setup 
+- Deploying Our App To Production 
+
 
 
 
