@@ -17,5 +17,5 @@ const MainContainer = () => {
       <VideoBackground movieId={id} />
     </div>
   );
-};
+}; 
 export default MainContainer;
